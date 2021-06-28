@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome to My Github
+My name is William Savage, my pronouns are he/him.
+I am a rising 5th year Student at RIT.
+I study Computer science and Machine Learning.
 
-<!--
-**savagewil/savagewil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you would like to reach me about a project please email savage.programing@gmail.com
 
-Here are some ideas to get you started:
+## Current Projects
+[SavageML](https://github.com/savagewil?tab=repositories#:~:text=Star-,SavageML,-A%20Personal%20Machine)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Old Projects Completed
+
+
+## Old Projects Incomplete
+
