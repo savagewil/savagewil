@@ -10,6 +10,8 @@ If you would like to reach me about a project please email savage.programing@gma
 
 [GoQLearning](https://github.com/savagewil/GoQLearning)
 
+[ModernPorfolioTheory](https://github.com/savagewil/ModernPorfolioTheory)
+
 # Old Projects
 
 ## Notatble Project Repositories
@@ -37,6 +39,34 @@ If you would like to reach me about a project please email savage.programing@gma
 [NeuronVerilog](https://github.com/savagewil/NeuronVerilog)
 
 ## School Project Repositories
+
+### Mobile Robototics - Private
+
+[632_finalproject](https://github.com/savagewil/632_finalproject)
+
+#### Mobile Robotics Homeworks - Private
+[632_hw5](https://github.com/savagewil/632_hw5)
+[632_hw4](https://github.com/savagewil/632_hw4)
+[MRP_homework_3](https://github.com/savagewil/MRP_homework_3)
+[MRP_homework_2](https://github.com/savagewil/MRP_homework_2)
+[savage_hw_1](https://github.com/savagewil/savage_hw_1)
+
+
+### Computational Geometery Projects/Homeworks - Private
+
+[CompGeoProject](https://github.com/Sean-Wisnewski/CompGeoProject)
+
+[CSCI716_Assignment_1](https://github.com/savagewil/CSCI716_Assignment_1) 
+[CSCI716_Assignment_2](https://github.com/savagewil/CSCI716_Assignment_2)
+
+
+### Networking Projects - Private
+
+[NetworkingProject1](https://github.com/savagewil/NetworkingProject1)
+
+[NetworkingProject2](https://github.com/savagewil/NetworkingProject2)
+
+[NetworkingProject3](https://github.com/savagewil/NetworkingProject3)
 
 ### Advanced Computer Vison Project
 [GestureRecognisionCSCI731](https://github.com/savagewil/GestureRecognisionCSCI731)
