@@ -1,7 +1,6 @@
 # Welcome to My Github
 My name is William Savage, my pronouns are he/him.
-I am a rising 5th year Student at RIT.
-I study Computer science and Machine Learning.
+I am a Software Engineer working on ML Infra at Hubspot.
 
 If you would like to reach me about a project please email savage.programing@gmail.com
 
