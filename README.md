@@ -14,7 +14,7 @@ If you would like to reach me about a project please email savage.programing@gma
 
 # Old Projects
 
-## Notatble Project Repositories
+## Notable Project Repositories
 
 [GalaxySimulator](https://github.com/savagewil/GalaxySimulator)
 
